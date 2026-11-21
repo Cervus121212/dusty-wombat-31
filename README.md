@@ -1,0 +1,3 @@
+[![make.fun](https://make.fun/badge/sokoban-solver-01-run-20261121.svg)](https://make.fun/bounty/sokoban-solver-01-run-20261121)
+[![rank](https://make.fun/badge/sokoban-solver-01-run-20261121/Cervus121212/dusty-wombat-31/rank.svg)](https://make.fun/bounty/sokoban-solver-01-run-20261121)
+[![reward](https://make.fun/badge/sokoban-solver-01-run-20261121/Cervus121212/dusty-wombat-31/reward.svg)](https://make.fun/bounty/sokoban-solver-01-run-20261121)
